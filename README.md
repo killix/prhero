@@ -1,3 +1,8 @@
+# Status - Offline
+
+@prhero is now turned off for the time being and may return with your advise of being opt-in only.
+
+
 # What is @prhero?
 
 @prhero is a GitHub experiment designed with good intentions to spread a little ❤️ . During the last 5 hours, it has given ❤️  to over 1.8k public repos.
