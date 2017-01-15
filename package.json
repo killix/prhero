@@ -1,0 +1,39 @@
+{
+  "name": "prhero",
+  "version": "1.0.0",
+  "description": "The PR hero nobody needs but everyone loves.",
+  "main": "server/index.js",
+  "scripts": {
+    "lint": "standard",
+    "start": "cross-env NODE_ENV=development node server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/njbmartin/prhero.git"
+  },
+  "keywords": [
+    "github",
+    "pr",
+    "hero",
+    "paul",
+    "rudd"
+  ],
+  "author": "@njbmartin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/njbmartin/prhero/issues"
+  },
+  "homepage": "https://github.com/njbmartin/prhero#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "helmet": "^3.4.0",
+    "redis": "^2.6.4",
+    "request": "^2.79.0",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {
+    "cross-env": "^3.1.4",
+    "standard": "^8.6.0"
+  }
+}
